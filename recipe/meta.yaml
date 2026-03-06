@@ -23,6 +23,8 @@ requirements:
   run:
     - python >={{ python_min }}
     - emmontopy >=0.10.1
+    - h5glance >=0.9
+    - h5py >=3.13
     - mammos-units >=0.2.1
     - numpy <3
     - pandas >=2
